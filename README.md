@@ -23,7 +23,7 @@ Smooth Motion Optimization: Refined control algorithms to make the robot’s mov
 
 🛠️ Tools & Technologies
 
-Frameworks: ROS / ROS 2, MoveIt, Gazebo, Rviz
+Frameworks: ROS / ROS 2, MoveIt, Rviz
 
 Methods: Teleoperation, Motion Imitation, Calibration, Trajectory Optimization
 
