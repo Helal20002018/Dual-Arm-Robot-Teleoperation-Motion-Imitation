@@ -1,9 +1,13 @@
-# Dual-Arm-Robot-Teleoperation-Motion-Imitation
+![Untitled design (2)](https://github.com/user-attachments/assets/f5b0f271-3343-4bc2-b76a-7245ec279784)# Dual-Arm-Robot-Teleoperation-Motion-Imitation
 
 📌 Project Overview
 
 This project was developed on the AgileX Piper, a dual-arm robotic platform.
 The goal was to enable the robot to learn tasks directly from human hand movements using a master–slave teleoperation framework, while ensuring accuracy, smoothness, and real-time control.
+
+
+
+![Untitled design (2)](https://github.com/user-attachments/assets/05390a22-3f4e-4627-af40-5da7aa70d722)
 
 🔧 My Contributions
 
@@ -27,14 +31,12 @@ Methods: Teleoperation, Motion Imitation, Calibration, Trajectory Optimization
 
 Hardware: AgileX Piper Dual-Arm Robot
 
-📸 Media
-
-Video Demo: Watch here
-
-Photos:
+📸 Video Demo:
 
 
 
+
+![Uploading 26f29425-a2d4-41b1-a290-25ca83c4c78f.gif…]()
 
 
 
