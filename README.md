@@ -1,11 +1,11 @@
 # Dual-Arm-Robot-Teleoperation-Motion-Imitation
 
---Project Overview
+📌 Project Overview
 
 This project was developed on the AgileX Piper, a dual-arm robotic platform.
 The goal was to enable the robot to learn tasks directly from human hand movements using a master–slave teleoperation framework, while ensuring accuracy, smoothness, and real-time control.
 
--- My Contributions
+🔧 My Contributions
 
 Master–Slave Control: Implemented a framework where one arm acts as the master and the other as the slave, imitating human-like movements.
 
@@ -19,7 +19,7 @@ Calibration: Developed new calibration methods for improved accuracy in tracking
 
 Smooth Motion Optimization: Refined control algorithms to make the robot’s movements smoother and closer to natural hand gestures.
 
--- Tools & Technologies
+🛠️ Tools & Technologies
 
 Frameworks: ROS / ROS 2, MoveIt, Gazebo, Rviz
 
@@ -27,7 +27,18 @@ Methods: Teleoperation, Motion Imitation, Calibration, Trajectory Optimization
 
 Hardware: AgileX Piper Dual-Arm Robot
 
--- Outcome
+📸 Media
+
+Video Demo: Watch here
+
+Photos:
+
+
+
+
+
+
+🚀 Outcome
 
 Successfully implemented master–slave teleoperation with real-time responsiveness.
 
