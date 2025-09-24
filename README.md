@@ -1,5 +1,3 @@
-![Untitled design (2)](https://github.com/user-attachments/assets/f5b0f271-3343-4bc2-b76a-7245ec279784)# Dual-Arm-Robot-Teleoperation-Motion-Imitation
-
 📌 Project Overview
 
 This project was developed on the AgileX Piper, a dual-arm robotic platform.
@@ -36,7 +34,8 @@ Hardware: AgileX Piper Dual-Arm Robot
 
 
 
-![Uploading 26f29425-a2d4-41b1-a290-25ca83c4c78f.gif…]()
+![26f29425-a2d4-41b1-a290-25ca83c4c78f](https://github.com/user-attachments/assets/03fc6c05-9b7b-49a3-8823-e7a1519b7083)
+
 
 
 
